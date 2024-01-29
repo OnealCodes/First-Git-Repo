@@ -8,6 +8,10 @@ def check_num (num):
         return True
     else:
         return False
+
+
+name = "Abisola"
+print(f"Welcome, {name}")
 print("Hello World")
 print("This is my first git repository")
 
