@@ -8,3 +8,9 @@ def check_num (num):
         return True
     else:
         return False
+print("Hello World")
+print("This is my first git repository")
+
+
+
+print("This is my new changes")
